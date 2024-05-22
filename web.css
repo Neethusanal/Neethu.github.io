@@ -27,7 +27,7 @@ header h1 span {
 }
 
 .content {
-      width:20%
+    
     display: flex;
     gap: 20px;
 }
@@ -42,7 +42,7 @@ header h1 span {
 
 .main {
     flex: 2;
-   width:80%
+   
     padding: 20px;
     box-sizing: border-box;
 }
